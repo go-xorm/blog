@@ -6,4 +6,4 @@ tags = go,golang,xorm,orm,sql,database
 
 ### Introduction
 
-本博客采用[PuGo](github.com/go-xiaohei/pugo)搭建。
+本博客采用[PuGo](https://github.com/go-xiaohei/pugo)搭建。
